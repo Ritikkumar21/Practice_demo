@@ -1,2 +1,2 @@
 # Practice_demo
-This is demo for practice purpose
+This repo is just for practicing git and github.
